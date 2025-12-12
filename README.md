@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge&logo=github)](https://leratomoloi.github.io)
 [![Open to Work](https://img.shields.io/badge/open%20to%20work-yes-green?style=for-the-badge)](#contact)
-[![Email](https://img.shields.io/badge/email-leratomoloi1918.com-orange?style=for-the-badge&logo=gmail)](mailto:leratomoloi1918@gmail.com)
+[![Email](https://img.shields.io/badge/email-leratomoloi1918@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:leratomoloi1918@gmail.com)
 
 ---
 
