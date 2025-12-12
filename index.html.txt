@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>lerato moloi</title>
+  <style>
+    :root{--bg:#f7f7f9;--text:#111;--accent:#0b63d6}
+    html,body{height:100%;margin:0;font-family:Inter,system-ui,Arial,sans-serif;background:var(--bg);color:var(--text)}
+    .wrap{min-height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:2rem}
+    h1{font-size:3rem;margin:0;letter-spacing:0.02em}
+    footer{margin-top:3rem;width:100%;text-align:center;padding:1rem 0;font-size:0.95rem;color:#444}
+    .card{background:white;padding:2.5rem 3rem;border-radius:12px;box-shadow:0 8px 30px rgba(11,99,214,0.06);text-align:center}
+    @media (max-width:480px){h1{font-size:2rem}.card{padding:1.5rem}}
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <div class="card" role="main">
+      <h1>lerato moloi</h1>
+    </div>
+    <footer>i can build a website for you</footer>
+  </main>
+</body>
+</html>
