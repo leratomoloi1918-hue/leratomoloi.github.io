@@ -42,7 +42,7 @@ Soft skills:
 
 - [Project One](https://github.com/yourusername/project-one) — High-level summary of what it does and why it matters.
 - [Project Two](https://github.com/yourusername/project-two) — Key tech used and notable achievement (performance, accessibility, adoption).
-- [Open Source Contribution](https://github.com/yourusername/contribution) — PRs or packages you maintain.
+- [Open Source Contribution](https://github.com/leratomoloi1918/contribution) — PRs or packages you maintain.
 
 ---
 
