@@ -61,7 +61,7 @@ I enjoy work that balances craft and impact: building products people love, impr
 ## Contact
 Let’s connect — I respond quickly to clear, concise messages.
 
-- Email: youremail@example.co
+- Email: leratomoloi1918@gmail.com
 - LinkedIn: https://linkedin.com/in/yourprofile
 - Twitter: https://twitter.com/yourhandle
 - Website: https://leratomoloi.github.io
